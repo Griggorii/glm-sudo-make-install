@@ -1,8 +1,4 @@
-
-
-&& sudo make install
-
-если не получиться то && cmake . && make и потом 
+Opengl compilation OS 8.0 builtin
 
 && sudo make install
 
